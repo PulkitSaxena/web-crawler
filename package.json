@@ -1,0 +1,23 @@
+{
+  "name": "web-crawler",
+  "version": "1.0.0",
+  "description": "A crawler to recursively identify all hyperlinks starting with a given URL",
+  "main": "master.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PulkitSaxena/web-crawler.git"
+  },
+  "keywords": [
+    "crawler",
+    "nodejs"
+  ],
+  "author": "Pulkit Saxena",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PulkitSaxena/web-crawler/issues"
+  },
+  "homepage": "https://github.com/PulkitSaxena/web-crawler#readme"
+}
