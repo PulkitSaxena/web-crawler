@@ -4,7 +4,7 @@ var CONF = {
 
   APP_NAME                  : 'WEB CRAWLER: ',
 
-  // URL to crawl upon  
+  // URL to crawl upon
   URL                       : 'https://medium.com/',
 
   // number of concurrent requests allowed to URL
@@ -17,6 +17,11 @@ var CONF = {
       ANCHOR      : 'a',
 
   },
+
+  // csv file heading
+  CSV_HEADING               : 'LINK',
+
+  ERROR_VISITING            : 'Error visiting the link ',
 
 };
 
